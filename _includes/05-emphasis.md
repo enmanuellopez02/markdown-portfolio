@@ -1,1 +1,5 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+**Esto es una mensaje en negrita**
+
+*Esto es un mensaje en cursiva*
+
+*Esto es un mensaje en cursiva y **Negriga***
